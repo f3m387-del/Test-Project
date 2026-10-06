@@ -17,6 +17,10 @@ This repository is freshly initialized and ready for development. No source file
 ```
 Test-Project/
 ├── CLAUDE.md          # AI assistant guidelines (this file)
+├── skills/
+│   └── proposal-thread/
+│       ├── SKILL.md   # Skill: proposal threads for the team (Russian)
+│       └── evals/     # Test prompts for the skill
 └── .git/              # Git repository data
 ```
 
